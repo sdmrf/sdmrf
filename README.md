@@ -22,7 +22,8 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <!-- Buy me a coffee button -->
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="sdmrf" data-color="#BD5FFF" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png)](https://www.buymeacoffee.com/sdmrf)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sdmrf&icon=0&color=0)](https://visitcount.itsvg.in)
