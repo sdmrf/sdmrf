@@ -49,6 +49,13 @@ class About extends Me{
   <img src="https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/2-most-commit-language.svg">
   <img src="https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/3-stats.svg">
   <img src="https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/4-productive-time.svg">
+</div>
+
+---
+
+## Streak
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdmrf&theme=radical">
 </div>
 
