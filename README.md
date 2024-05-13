@@ -33,12 +33,13 @@ class About extends Me {
 # 📊 GitHub Stats:
 
 <div align="center">
-  ![](https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/0-profile-details.svg)
-  ![](https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/1-repos-per-language.svg)
-  ![](https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/2-most-commit-language.svg)
-  ![](https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/3-stats.svg)
-  ![](https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/4-productive-time.svg)
+  <img src="https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/0-profile-details.svg">
+  <img src="https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/2-most-commit-language.svg">
+  <img src="https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/3-stats.svg">
+  <img src="https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/4-productive-time.svg">
 </div>
+
 
 
 ### ✍️ Random Dev Quote
