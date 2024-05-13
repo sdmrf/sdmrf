@@ -49,7 +49,7 @@ class About extends Me{
   <img src="https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/2-most-commit-language.svg">
   <img src="https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/3-stats.svg">
   <img src="https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/4-productive-time.svg">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdmrf">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdmrf&theme=radical">
 </div>
 
 ---
@@ -57,7 +57,7 @@ class About extends Me{
 ## Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radica">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </div>
 
 ---
@@ -73,8 +73,11 @@ class About extends Me{
 ---
 
 <div align="center">
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png)](https://www.buymeacoffee.com/sdmrf)
+  <a href="https://www.buymeacoffee.com/sdmrf">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee">
+  </a>
 </div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sdmrf&label=Profile%20views&color=0e75b6&style=flat" alt="sdmrf" />
