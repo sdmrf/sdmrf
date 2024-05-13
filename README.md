@@ -30,9 +30,9 @@ class About extends Me {
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=sdmrf&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sdmrf&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sdmrf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![](https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/0-profile-details.svg)]
+[![](https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/1-repos-per-language.svg)] [![](https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/2-most-commit-language.svg)]
+[![](https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/3-stats.svg)] [![](https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/4-productive-time.svg)]
 
 ### ✍️ Random Dev Quote
 
