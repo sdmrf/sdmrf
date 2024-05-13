@@ -79,12 +79,23 @@ class About extends Me{
 
 ---
 
+## Code Cycle
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!">
+  &#160;&#160;&#160;&#160;&#160;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!">
+  &#160;&#160;&#160;&#160;&#160;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!">
+</div>
+
+---
+
 <div align="center">
   <a href="https://www.buymeacoffee.com/sdmrf">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee">
   </a>
 </div>
-
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sdmrf&label=Profile%20views&color=0e75b6&style=flat" alt="sdmrf" />
