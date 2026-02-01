@@ -21,22 +21,22 @@ Currently building [qezir.com](https://qezir.com) — a cybersecurity intelligen
 <div align="center">
 
 <a href="https://github.com/sdmrf/relay">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sdmrf&repo=relay&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sdmrf&repo=relay&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/sdmrf/BurpSuite-Pro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sdmrf&repo=BurpSuite-Pro&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sdmrf&repo=BurpSuite-Pro&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/sdmrf/BurpSuiteLoaderGen">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sdmrf&repo=BurpSuiteLoaderGen&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sdmrf&repo=BurpSuiteLoaderGen&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/sdmrf/surveillance-bureau">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sdmrf&repo=surveillance-bureau&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sdmrf&repo=surveillance-bureau&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/sdmrf/grabx">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sdmrf&repo=grabx&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sdmrf&repo=grabx&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/sdmrf/react-template">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sdmrf&repo=react-template&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sdmrf&repo=react-template&theme=github_dark&hide_border=true" />
 </a>
 
 </div>
@@ -50,6 +50,6 @@ Currently building [qezir.com](https://qezir.com) — a cybersecurity intelligen
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sdmrf&theme=github_dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdmrf&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sdmrf&theme=github_dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sdmrf&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
