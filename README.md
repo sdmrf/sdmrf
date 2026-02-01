@@ -2,11 +2,11 @@
 
 # Syed Maruf Ali
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1500&color=c9d1d9&center=true&vCenter=true&width=550&height=50&lines=Security+Researcher+%26+Full-Stack+Developer;Building+cybersecurity+tools+and+platforms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1500&color=c9d1d9&center=true&vCenter=true&width=500&height=50&lines=Software+Engineer;Cybersecurity+Enthusiast" alt="Typing SVG" />
 
 <br>
 
-Currently building [qezir.com](https://qezir.com) — a cybersecurity intelligence platform.
+Full-stack developer with a thing for cybersecurity. Building [qezir.com](https://qezir.com) on the side.
 
 <br>
 
