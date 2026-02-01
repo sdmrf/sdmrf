@@ -1,57 +1,55 @@
+<div align="center">
+
 # Syed Maruf Ali
 
-**Security Researcher & Full-Stack Developer**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1500&color=c9d1d9&center=true&vCenter=true&width=550&height=50&lines=Security+Researcher+%26+Full-Stack+Developer;Building+cybersecurity+tools+and+platforms" alt="Typing SVG" />
 
-Building cybersecurity tools and intelligence platforms. Focused on offensive security tooling, threat intelligence, and web application security.
+<br>
 
-- Currently building [qezir.com](https://qezir.com) — a cybersecurity intelligence platform
-- Creator of [relay](https://github.com/sdmrf/relay) — lifecycle orchestrator for Burp Suite
-- Based in Jalna, Maharashtra, India
+Currently building [qezir.com](https://qezir.com) — a cybersecurity intelligence platform.
 
----
+<br>
 
-## Featured Projects
+[![X](https://img.shields.io/badge/%40sdmrfa-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/sdmrfa)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Syed_Maruf_Ali-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedmarufali)&nbsp;&nbsp;
+[![Blog](https://img.shields.io/badge/qezir.com-FF5722?style=flat-square&logo=hashnode&logoColor=white)](https://qezir.com)
 
-### Security & Tools
-
-- **[relay](https://github.com/sdmrf/relay)** — A deterministic lifecycle orchestrator for Burp Suite `Go`
-- **[BurpSuite-Pro](https://github.com/sdmrf/BurpSuite-Pro)** — Automated BurpSuite Pro setup for Windows and Linux `PowerShell`
-- **[BurpSuiteLoaderGen](https://github.com/sdmrf/BurpSuiteLoaderGen)** — License key generator for Burp Suite Professional
-
-### Web & Apps
-
-- **[surveillance-bureau](https://github.com/sdmrf/surveillance-bureau)** — Real-time surveillance and monitoring system with criminal records management `JavaScript`
-- **[grabx](https://github.com/sdmrf/grabx)** — Full-stack e-commerce web application `JavaScript`
-- **[react-template](https://github.com/sdmrf/react-template)** — Production-ready React project starter `React` `TypeScript`
-
----
-
-## Tech Stack
-
-**Languages:** Go · Python · TypeScript · JavaScript
-**Frontend:** React · Next.js · Astro · Tailwind CSS · React Native
-**Backend:** Node.js · Express · FastAPI
-**Security:** Burp Suite · OSINT · Threat Intelligence
-**Databases:** MongoDB · MySQL · Firebase
-**Tools:** Git · Docker · Neovim
-
----
-
-## Stats
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/0-profile-details.svg" alt="Profile Details">
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/3-stats.svg" alt="Stats">
-  <img src="https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/1-repos-per-language.svg" alt="Top Languages">
 </div>
 
 ---
 
-## Connect
+<div align="center">
 
-[![X](https://img.shields.io/badge/@sdmrfa-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/sdmrfa)
-[![LinkedIn](https://img.shields.io/badge/Syed_Maruf_Ali-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedmarufali)
-[![Blog](https://img.shields.io/badge/qezir.com-FF5722?style=flat&logo=hashnode&logoColor=white)](https://qezir.com)
+<a href="https://github.com/sdmrf/relay">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sdmrf&repo=relay&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/sdmrf/BurpSuite-Pro">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sdmrf&repo=BurpSuite-Pro&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/sdmrf/BurpSuiteLoaderGen">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sdmrf&repo=BurpSuiteLoaderGen&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/sdmrf/surveillance-bureau">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sdmrf&repo=surveillance-bureau&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/sdmrf/grabx">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sdmrf&repo=grabx&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/sdmrf/react-template">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sdmrf&repo=react-template&theme=github_dark&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,py,ts,js,react,nextjs,astro,tailwind,nodejs,express,fastapi,mongodb,mysql,firebase,docker,git,neovim,linux&theme=dark&perline=9" alt="Tech Stack" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sdmrf&theme=github_dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdmrf&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
