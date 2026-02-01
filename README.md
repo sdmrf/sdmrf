@@ -15,14 +15,14 @@ Building cybersecurity tools and intelligence platforms. Focused on offensive se
 ### Security & Tools
 
 - **[relay](https://github.com/sdmrf/relay)** — A deterministic lifecycle orchestrator for Burp Suite `Go`
-- **[qezir](https://github.com/sdmrf/qezir)** — Cybersecurity intelligence platform — breaking down threats, building up defenses `Astro` `MDX`
-- **[cybercatalogue](https://github.com/sdmrf/cybercatalogue)** — Automated cybersecurity education content pipeline `Python`
-- **[BurpSuite-Pro](https://github.com/sdmrf/BurpSuite-Pro)** — BurpSuite Pro setup for Windows & Linux `PowerShell`
+- **[BurpSuite-Pro](https://github.com/sdmrf/BurpSuite-Pro)** — Automated BurpSuite Pro setup for Windows and Linux `PowerShell`
+- **[BurpSuiteLoaderGen](https://github.com/sdmrf/BurpSuiteLoaderGen)** — License key generator for Burp Suite Professional
 
 ### Web & Apps
 
-- **[adv-syed-yakub-ali](https://github.com/sdmrf/adv-syed-yakub-ali)** — Professional lawyer portfolio website `Astro`
-- **[React-Template](https://github.com/sdmrf/React-Template)** — Production-ready React project starter `React` `TypeScript`
+- **[surveillance-bureau](https://github.com/sdmrf/surveillance-bureau)** — Real-time surveillance and monitoring system with criminal records management `JavaScript`
+- **[grabx](https://github.com/sdmrf/grabx)** — Full-stack e-commerce web application `JavaScript`
+- **[react-template](https://github.com/sdmrf/react-template)** — Production-ready React project starter `React` `TypeScript`
 
 ---
 
