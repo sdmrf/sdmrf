@@ -1,9 +1,25 @@
-### Hey, I'm Maruf 👋
+```
+> maruf@backend ~ $ whoami
 
-Backend engineer at [Ambrstack](https://ambrstack.com). I build integrations, migration pipelines, and APIs that don't fall apart in production.
+  Syed Maruf Ali
+  Backend Engineer @ Ambrstack
+  India / Remote
 
-Previously built a CRM migration platform connecting 8 platforms to HubSpot, shipped a HubSpot marketplace app handling 100K+ contacts, and run [qezir.com](https://qezir.com) — a production SaaS with dozens of third-party API integrations.
+> maruf@backend ~ $ cat stack.txt
 
-- 🔧 I work with: `Python`, `TypeScript`, `Node.js`, `FastAPI`, `MongoDB`, `PostgreSQL`, `AWS`, `Azure`, `GCP`
-- 🔌 I like building: API connectors, ETL pipelines, event-driven systems, things that make platforms talk to each other
-- 📬 Reach me: [LinkedIn](https://linkedin.com/in/syedmarufali) · [sdmrfa@gmail.com](mailto:sdmrfa@gmail.com)
+  python  typescript  node.js  fastapi  express
+  mongodb  postgresql  redis  firestore  cosmos-db
+  aws  azure  gcp  terraform  docker
+
+> maruf@backend ~ $ cat projects.txt
+
+  qezir.com        production saas, dozens of api integrations, 50+ daily users
+  suprswitch       crm migration engine, 8 platforms into hubspot, zero data loss
+  truedialog       hubspot marketplace app, 100k+ contacts, event-driven on azure
+
+> maruf@backend ~ $ cat links.txt
+
+  linkedin.com/in/syedmarufali
+  qezir.com
+  sdmrfa@gmail.com
+```
