@@ -1,21 +1,9 @@
-```yaml
-name: Syed Maruf Ali
-role: Backend Engineer
-location: India (Remote)
-currently: Building audit engines and HubSpot integrations @ Ambrstack
-previously: CRM migration platform across 8 platforms, HubSpot marketplace app (100K+ contacts)
-side_project: qezir.com — production SaaS with dozens of API integrations
+### Hey, I'm Maruf 👋
 
-stack:
-  languages: [Python, TypeScript, JavaScript, Go]
-  backend: [Node.js, FastAPI, Express, NestJS]
-  databases: [MongoDB, PostgreSQL, Redis, Firestore, Cosmos DB]
-  cloud: [AWS, Azure, GCP, Cloudflare Workers]
-  infra: [Terraform, Docker, Cloud Tasks, Service Bus]
-  patterns: [OAuth 2.0, ETL Pipelines, Event-Driven, Message Queues, Schema Mapping]
+Backend engineer at [Ambrstack](https://ambrstack.com). I build integrations, migration pipelines, and APIs that don't fall apart in production.
 
-links:
-  linkedin: linkedin.com/in/syedmarufali
-  website: qezir.com
-  email: sdmrfa@gmail.com
-```
+Previously built a CRM migration platform connecting 8 platforms to HubSpot, shipped a HubSpot marketplace app handling 100K+ contacts, and run [qezir.com](https://qezir.com) — a production SaaS with dozens of third-party API integrations.
+
+- 🔧 I work with: `Python`, `TypeScript`, `Node.js`, `FastAPI`, `MongoDB`, `PostgreSQL`, `AWS`, `Azure`, `GCP`
+- 🔌 I like building: API connectors, ETL pipelines, event-driven systems, things that make platforms talk to each other
+- 📬 Reach me: [LinkedIn](https://linkedin.com/in/syedmarufali) · [sdmrfa@gmail.com](mailto:sdmrfa@gmail.com)
