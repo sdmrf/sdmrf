@@ -1,19 +1,21 @@
-<div align="center">
+```yaml
+name: Syed Maruf Ali
+role: Backend Engineer
+location: India (Remote)
+currently: Building audit engines and HubSpot integrations @ Ambrstack
+previously: CRM migration platform across 8 platforms, HubSpot marketplace app (100K+ contacts)
+side_project: qezir.com — production SaaS with dozens of API integrations
 
-# Syed Maruf Ali
+stack:
+  languages: [Python, TypeScript, JavaScript, Go]
+  backend: [Node.js, FastAPI, Express, NestJS]
+  databases: [MongoDB, PostgreSQL, Redis, Firestore, Cosmos DB]
+  cloud: [AWS, Azure, GCP, Cloudflare Workers]
+  infra: [Terraform, Docker, Cloud Tasks, Service Bus]
+  patterns: [OAuth 2.0, ETL Pipelines, Event-Driven, Message Queues, Schema Mapping]
 
-Backend engineer building integrations, migration pipelines, and scalable APIs.
-
-Currently at [Ambrstack](https://ambrstack.com) — side project: [qezir.com](https://qezir.com)
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=py,ts,nodejs,fastapi,mongodb,postgres,aws,azure,gcp,docker&theme=dark&perline=10" alt="Tech Stack" />
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedmarufali)&nbsp;&nbsp;
-[![Qezir](https://img.shields.io/badge/qezir.com-FF5722?style=flat-square&logoColor=white)](https://qezir.com)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/sdmrfa@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sdmrfa@gmail.com)
-
-</div>
+links:
+  linkedin: linkedin.com/in/syedmarufali
+  website: qezir.com
+  email: sdmrfa@gmail.com
+```
