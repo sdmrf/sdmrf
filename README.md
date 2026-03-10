@@ -2,11 +2,11 @@
 
 # Syed Maruf Ali
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1500&color=c9d1d9&center=true&vCenter=true&width=500&height=50&lines=Software+Engineer;Cybersecurity+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1500&color=c9d1d9&center=true&vCenter=true&width=500&height=50&lines=Backend+Engineer;Building+Integrations+%26+Scalable+Systems" alt="Typing SVG" />
 
 <br>
 
-Full-stack developer with a thing for cybersecurity. Building [qezir.com](https://qezir.com) on the side.
+Backend engineer who builds integrations, migration pipelines, and scalable APIs. Currently at [Ambrstack](https://ambrstack.com). Side project: [qezir.com](https://qezir.com)
 
 <br>
 
@@ -21,37 +21,25 @@ Full-stack developer with a thing for cybersecurity. Building [qezir.com](https:
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" valign="top">
-      <a href="https://github.com/sdmrf/relay">
-        <img src="https://github-readme-stats.zohan.tech/api/pin/?username=sdmrf&repo=relay&theme=github_dark&hide_border=true&border_radius=10" width="400" />
+      <a href="https://github.com/sdmrf/pgrkam-sih-2023">
+        <img src="https://github-readme-stats.zohan.tech/api/pin/?username=sdmrf&repo=pgrkam-sih-2023&theme=github_dark&hide_border=true&border_radius=10" width="400" />
       </a>
     </td>
-    <td align="center" valign="top">
-      <a href="https://github.com/sdmrf/BurpSuite-Pro">
-        <img src="https://github-readme-stats.zohan.tech/api/pin/?username=sdmrf&repo=BurpSuite-Pro&theme=github_dark&hide_border=true&border_radius=10" width="400" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <a href="https://github.com/sdmrf/BurpSuiteLoaderGen">
-        <img src="https://github-readme-stats.zohan.tech/api/pin/?username=sdmrf&repo=BurpSuiteLoaderGen&theme=github_dark&hide_border=true&border_radius=10" width="400" />
-      </a>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://github.com/sdmrf/surveillance-bureau">
-        <img src="https://github-readme-stats.zohan.tech/api/pin/?username=sdmrf&repo=surveillance-bureau&theme=github_dark&hide_border=true&border_radius=10" width="400" />
-      </a>
-    </td>
-  </tr>
-  <tr>
     <td align="center" valign="top">
       <a href="https://github.com/sdmrf/grabx">
         <img src="https://github-readme-stats.zohan.tech/api/pin/?username=sdmrf&repo=grabx&theme=github_dark&hide_border=true&border_radius=10" width="400" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top">
-      <a href="https://github.com/sdmrf/react-template">
-        <img src="https://github-readme-stats.zohan.tech/api/pin/?username=sdmrf&repo=react-template&theme=github_dark&hide_border=true&border_radius=10" width="400" />
+      <a href="https://github.com/sdmrf/relay">
+        <img src="https://github-readme-stats.zohan.tech/api/pin/?username=sdmrf&repo=relay&theme=github_dark&hide_border=true&border_radius=10" width="400" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/sdmrf/react-native-template">
+        <img src="https://github-readme-stats.zohan.tech/api/pin/?username=sdmrf&repo=react-native-template&theme=github_dark&hide_border=true&border_radius=10" width="400" />
       </a>
     </td>
   </tr>
@@ -60,7 +48,7 @@ Full-stack developer with a thing for cybersecurity. Building [qezir.com](https:
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,py,ts,js,react,nextjs,astro,tailwind,nodejs,express,fastapi,mongodb,mysql,firebase,docker,git,neovim,linux&theme=dark&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,go,nodejs,express,fastapi,mongodb,postgres,redis,firebase,aws,azure,gcp,docker,terraform,git,linux&theme=dark&perline=9" alt="Tech Stack" />
 </div>
 
 ---
