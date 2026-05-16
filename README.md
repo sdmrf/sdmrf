@@ -2,7 +2,7 @@
 > maruf@backend ~ $ whoami
 
   Syed Maruf Ali
-  Backend Engineer @ Ambrstack
+  Backend Engineer
   India / Remote
 
 > maruf@backend ~ $ cat stack.txt
